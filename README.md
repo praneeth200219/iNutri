@@ -13,5 +13,5 @@ Periodic examination and mass screening employ both traditional and non-invasive
 - This paper is the first to incorporate the fine-grain local 3D representation in combination using 3D classification network backbones as feature extractors.
 
 ## Conceptual Overview
-
+<img src="Images/ImgPP_page-0001.jpg" width="1000"/>
 
