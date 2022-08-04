@@ -6,4 +6,7 @@ Ashish Marisetty, Prathistith Raj Medi, Praneeth Nemani, Venkanna U, Debanjan Da
 
 ## Contributions
 - A holistic feature fusion of facial, body \& 3D embeddings, including the correlation between them, optimal feature combination and individual importance in estimating the weight is insightfully discussed.
-- 
+- This paper is the first to incorporate the fine-grain local 3D representation in combination using 3D classification network backbones as feature extractors.
+
+## Body Detection and Preprocessing
+
