@@ -3,3 +3,7 @@ This is the official implementation of our paper titled: **iNutri: An Automated 
 
 ## Authors
 Ashish Marisetty, Prathistith Raj Medi, Praneeth Nemani, Venkanna U, Debanjan Das
+
+## Contributions
+- A holistic feature fusion of facial, body \& 3D embeddings, including the correlation between them, optimal feature combination and individual importance in estimating the weight is insightfully discussed.
+- 
